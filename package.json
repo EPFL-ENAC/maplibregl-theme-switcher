@@ -1,6 +1,6 @@
 {
-  "name": "mapblibregl-theme-switcher",
-  "version": "1.0.0",
+  "name": "maplibregl-theme-switcher",
+  "version": "0.9.0",
   "description": "MapLibre GL JS Theme Switcher",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
