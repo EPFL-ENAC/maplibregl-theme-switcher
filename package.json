@@ -1,6 +1,6 @@
 {
   "name": "maplibregl-theme-switcher",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "MapLibre GL JS Theme Switcher",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/EPFL-ENAC/maplibregl-theme-switcher#readme",
   "dependencies": {
-    "maplibre-gl": "^3.5.1"
+    "maplibre-gl": "^4.3.2"
   },
   "devDependencies": {
-    "@types/mapbox-gl": "^1.9.0",
+    "@types/mapbox-gl": "^3.1.0",
     "minimist": ">=0.2.1",
     "typescript": "^5.2.2"
   }
