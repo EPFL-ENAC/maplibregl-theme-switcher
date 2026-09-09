@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/EPFL-ENAC/maplibregl-theme-switcher#readme",
   "dependencies": {
-    "maplibre-gl": "^4.3.2"
+    "maplibre-gl": "^6.4.1"
   },
   "devDependencies": {
     "@types/mapbox-gl": "^3.1.0",
